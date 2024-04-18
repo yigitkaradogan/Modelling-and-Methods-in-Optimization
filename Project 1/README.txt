@@ -1,0 +1,2 @@
+
+This project involves designing an IP-Model for Ali Baba's assignment to maximize his profit in obtaining gold coins from a chessboard. The assignment requires him to place gold and bronze coins on a 7×7 chessboard such that any 3×3 square contains an equal number of gold and bronze coins. The model aims to optimize the placement of coins to maximize the number of gold coins Ali Baba can take away. The solution is then obtained using XPress-MP, and the results are explained. 
